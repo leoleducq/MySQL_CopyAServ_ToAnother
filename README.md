@@ -10,7 +10,7 @@ Grâce à cette solution, les données sont :
 * Nettoyées
 * Normalisées
 
-Le code est évidemment personnalisé pour nos besoins, mais est tout de même accessible à quiconque voulant transférer ou tout simplement nettoyer plus facilement avec sa BDD.
+Le code est évidemment personnalisé pour nos besoins, mais est tout de même accessible à quiconque voulant transférer ou tout simplement nettoyer plus facilement sa BDD.
 
 ### Version
 | MySQL        | MariaDB           | Python  |

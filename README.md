@@ -19,8 +19,8 @@ Le code est évidemment personnalisé pour nos besoins, mais est tout de même a
 
 ### Installation FR
 1. Copier ce répertoire : <code> git clone https://github.com/leoleducq/MySQL_CopyAServ_ToAnother.git </code>
-2. Aller dans le dossier "Modules"
-3. Modifier le fichier "connect.py" avec les identifiants de connexion à vos BDD
+2. Aller dans le dossier "[Modules](.Modules)"
+3. Modifier le fichier "[connect.py](./Modules/connect.py)" avec les identifiants de connexion à vos BDD
 4. Aller dans le dossier "Txt"
 5. Modifier le fichier "liste" et mettez le nom des tables à copier
     Syntaxe : nomBDD.nomTable
@@ -34,8 +34,8 @@ Le code est évidemment personnalisé pour nos besoins, mais est tout de même a
 
 ### Installation ENG
 1. Clone this repository : <code> git clone https://github.com/leoleducq/MySQL_CopyAServ_ToAnother.git </code>
-2. Go in the folder "Modules"
-3. Modify the file "connect.py" with the login of your BDD
+2. Go in the folder "[Modules](.Modules)"
+3. Modify the file "[connect.py](./Modules/connect.py)" with the login of your BDD
 4. Go in the folder "Txt"
 5. Modify the file "liste" with the table name you want to copy
     Syntax : BDDname.Tablename

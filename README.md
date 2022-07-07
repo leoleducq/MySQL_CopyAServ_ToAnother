@@ -15,7 +15,7 @@ Le code est évidemment personnalisé pour nos besoins, mais est tout de même a
 ### Version
 | MySQL        | MariaDB           | Python  |
 | ------------- |:-------------:| -----:|
-| 15.1      | 10.5.15 | 3.9 |
+| 15.1| 10.5.15 | 3.9 |
 
 ### Installation FR
 1. Copier ce répertoire : <code> git clone https://github.com/leoleducq/MySQL_CopyAServ_ToAnother.git </code>

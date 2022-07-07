@@ -1,6 +1,6 @@
 # MySQL_CopyAServ_ToAnother
 ### Description
-Fait pour migrer des données d'une BDD à une autre
+Fait pour migrer des données d'une BDD à une autre en les normalisant.
 ### Pourquoi ?
 Ce code a été fait dans le but de migrer des tables d'une BDD à une autre en vérifiant chaque caractère de celle-ci (UTF_8).<br>
 Ainsi qu'en modifiant les caractères spéciaux pouvant entrainer des bugs dans un service Web.
